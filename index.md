@@ -5,12 +5,6 @@ title: 南町通りレイディオ
 
 # インターネット老人会向け年表
 
-<ul>
-  <li class="navbar"><a href="#" onclick="viewlist()">すべて</a> </li>
-  <li class="navbar"><a href="#" onclick="viewlist('game')">ゲーム</a> </li>
-  <li class="navbar"><a href="#" onclick="viewlist('manga')">まんが</a> </li>
-</ul>
-
 ## 1969年
 
 * [ARPANET](https://ja.wikipedia.org/wiki/ARPANET) 稼働開始

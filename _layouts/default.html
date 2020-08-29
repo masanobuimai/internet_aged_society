@@ -10,6 +10,11 @@
 <div class="wrapper">
   <header>
     {{page.title}}
+    <ul>
+      <li class="navbar"><a href="#" onclick="viewlist()">すべて</a> </li>
+      <li class="navbar"><a href="#" onclick="viewlist('game')">ゲーム</a> </li>
+      <li class="navbar"><a href="#" onclick="viewlist('manga')">漫画</a> </li>
+    </ul>
   </header>
   <section>
 
@@ -19,6 +24,28 @@
   <footer>
   </footer>
 </div>
-<script type="text/javascript" src='{{ "/assets/js/user.js" | relative_url }}'></script>
+<script type="text/javascript">
+  function viewlist(category = "all") {
+    // let nodes = document.getElementsByTagName("li");
+    let nodes = document.getElementsByTagName("li");
+    for (let i = 0; i < nodes.length; i++) {
+      var tag = nodes[i];
+      if (tag.className === "navbar")
+        continue;
+      if (category === "all") {
+        tag.style.display = "list-item";
+      }
+      else {
+        var img = tag.firstChild
+        if (img != null && img.tagName === "IMG" && img.alt === category) {
+          tag.style.display = "list-item";
+        }
+        else {
+          tag.style.display = "none";
+        }
+      }
+    }
+  }
+</script>
 </body>
 </html>
