@@ -1,3 +1,8 @@
+---
+layout: default
+title: 南町通りレイディオ  
+---
+
 # 南町通りレイディオ  
 
 * 第1回 https://www.youtube.com/watch?v=hUdCx7Ry_iY
