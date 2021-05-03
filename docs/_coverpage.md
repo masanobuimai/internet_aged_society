@@ -1,4 +1,4 @@
-![logo](/images/mr-logo.png)
+![logo](images/mr-logo.png)
 
 # 南町通りレイディオ
 
@@ -11,4 +11,4 @@
 - [第6回 ニンダイ 2020.9](https://www.youtube.com/watch?v=6EO0HuC_t2Y)
 
 [GitHub](https://github.com/masanobuimai/internet_aged_society.git)
-[Get Start](#インターネット老人会向け年表)
+[Get Start](#top)
