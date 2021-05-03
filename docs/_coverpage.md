@@ -11,4 +11,4 @@
 - [第6回 ニンダイ 2020.9](https://www.youtube.com/watch?v=6EO0HuC_t2Y)
 
 [GitHub](https://github.com/masanobuimai/internet_aged_society.git)
-[Get Start](#top)
+[年表へ](#top)
