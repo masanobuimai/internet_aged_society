@@ -1,8 +1,6 @@
-![logo](images/mr-logo.png)
+![logo](_media/mr-logo.png)
 
-# インターネット老人会向け年表
-
-> 南町通りレイディオ
+# 南町通りレイディオ
 
 - [第1回 BASARA に行ってきたよ](https://www.youtube.com/watch?v=hUdCx7Ry_iY)
 - [第2回 シルドラ に行ってきたよ](https://www.youtube.com/watch?v=AUdaVkiZGhY)
@@ -13,4 +11,4 @@
 - [第6回 ニンダイ 2020.9](https://www.youtube.com/watch?v=6EO0HuC_t2Y)
 
 [GitHub](https://github.com/masanobuimai/internet_aged_society.git)
-[Get Started](#インターネット老人会向け年表)
+[インターネット老人会向け年表](#インターネット老人会向け年表)
