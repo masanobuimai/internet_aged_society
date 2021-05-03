@@ -7,19 +7,29 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* Fix issue on mobile devices where a custom cover image goes off the screen. */
+    section.cover.show {
+      height: 100%;
+    }
+
+    a.anchor span {
+      font-size: 24px;
+    }
+  </style>
 </head>
 <body>
 <nav style="position: fixed">
-  [<a href="#" onclick="viewlist()">ALL</a>|
-  <a href="#" onclick="viewlist('off')">OFF</a>|
+  [<a onclick="viewlist()">ALL</a>|
+  <a onclick="viewlist('off')">OFF</a>|
   <ul style="padding-left:0">
     <li>Category
       <ul>
-        <li><a href="#" onclick="viewlist('internet')"><img src="images/internet.png">インターネット</a></li>
-        <li><a href="#" onclick="viewlist('game')"><img src="images/game.png">ゲーム</a></li>
-        <li><a href="#" onclick="viewlist('manga')"><img src="images/manga.png">マンガ</a></li>
-        <li><a href="#" onclick="viewlist('anime')"><img src="images/anime.png">アニメ</a></li>
-        <li><a href="#" onclick="viewlist('music')"><img src="images/music.png">音楽</a></li>
+        <li><a onclick="viewlist('internet')"><img src="_media/internet.png">インターネット</a></li>
+        <li><a onclick="viewlist('game')"><img src="_media/game.png">ゲーム</a></li>
+        <li><a onclick="viewlist('manga')"><img src="_media/manga.png">マンガ</a></li>
+        <li><a onclick="viewlist('anime')"><img src="_media/anime.png">アニメ</a></li>
+        <li><a onclick="viewlist('music')"><img src="_media/music.png">音楽</a></li>
       </ul>
     </li>
   </ul>
@@ -27,13 +37,14 @@
 </nav>
 <div id="app"></div>
 <script>
+  var repo = 'https://github.com/masanobuimai/internet_aged_society.git';
+
   window.$docsify = {
     name: '南町通りレイディオ',
     coverpage: true,
     hideSidebar: true,
-    routerMode: 'history',
     auto2top: true,
-    repo: 'https://github.com/masanobuimai/internet_aged_society.git',
+    repo: repo,
   }
 
   function viewlist(category = "all") {
@@ -56,6 +67,7 @@
         node.style.display = "none";
       }
     }
+    return false;
   }
 </script>
 <!-- Docsify v4 -->

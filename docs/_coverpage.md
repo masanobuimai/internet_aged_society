@@ -1,4 +1,4 @@
-![logo](images/mr-logo.png)
+![logo](_media/mr-logo.png)
 
 # 南町通りレイディオ
 
