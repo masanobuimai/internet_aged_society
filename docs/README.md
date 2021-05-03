@@ -2,22 +2,22 @@
 
 ## 1966年 - 昭和41年
 
-* ![anime](_media/anime.png) 「ウルトラQ」
-* ![anime](_media/anime.png) 「ウルトラマン」
+* ![anime](images/anime.png) 「ウルトラQ」
+* ![anime](images/anime.png) 「ウルトラマン」
 
 ## 1967年 - 昭和42年
 
-* ![anime](_media/anime.png) 「ウルトラセブン」
+* ![anime](images/anime.png) 「ウルトラセブン」
 
 ## 1968年 - 昭和43年
 
-* ![anime](_media/anime.png) 「怪奇大作戦」
+* ![anime](images/anime.png) 「怪奇大作戦」
 
 ## 1969年 - 昭和44年
 
-* ![internet](_media/internet.png) [ARPANET](https://ja.wikipedia.org/wiki/ARPANET) 稼働開始
+* ![internet](images/internet.png) [ARPANET](https://ja.wikipedia.org/wiki/ARPANET) 稼働開始
 * [UNIX](https://ja.wikipedia.org/wiki/UNIX) 誕生
-* ![manga](_media/manga.png) 「ドラえもん」連載開始
+* ![manga](images/manga.png) 「ドラえもん」連載開始
 
 ---
 
@@ -25,122 +25,122 @@
 
 ## 1971年 - 昭和46年
 
-* ![anime](_media/anime.png) 「仮面ライダー」
-* ![anime](_media/anime.png) 「帰ってきたウルトラマン」
+* ![anime](images/anime.png) 「仮面ライダー」
+* ![anime](images/anime.png) 「帰ってきたウルトラマン」
 
 ## 1972年 - 昭和47年
 
 * [Emacs](https://ja.wikipedia.org/wiki/Emacs) 開発
 * [C言語](https://ja.wikipedia.org/wiki/C言語) 誕生
-* ![anime](_media/anime.png) 「マジンガーZ」
-* ![anime](_media/anime.png) 「科学忍者隊ガッチャマン」
-* ![anime](_media/anime.png) 「ウルトラマンA」
+* ![anime](images/anime.png) 「マジンガーZ」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマン」
+* ![anime](images/anime.png) 「ウルトラマンA」
 
 ## 1973年 - 昭和48年
 
-* ![internet](_media/internet.png) [TCP/IP](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート) 仕様公開
-* ![anime](_media/anime.png) まんが劇場「山ねずみロッキーチャック」
-* ![anime](_media/anime.png) 「新造人間キャシャーン」
-* ![anime](_media/anime.png) 「仮面ライダーV3」
-* ![anime](_media/anime.png) 「ウルトラマンタロウ」
+* ![internet](images/internet.png) [TCP/IP](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート) 仕様公開
+* ![anime](images/anime.png) まんが劇場「山ねずみロッキーチャック」
+* ![anime](images/anime.png) 「新造人間キャシャーン」
+* ![anime](images/anime.png) 「仮面ライダーV3」
+* ![anime](images/anime.png) 「ウルトラマンタロウ」
 
 ## 1974年 - 昭和49年
 
-* ![anime](_media/anime.png) まんが劇場「アルプスの少女ハイジ」
-* ![anime](_media/anime.png) 「グレートマジンガー」
-* ![anime](_media/anime.png) 「ゲッターロボ」
-* ![anime](_media/anime.png) 「破裏拳ポリマー」
-* ![anime](_media/anime.png) 「仮面ライダーX」
-* ![anime](_media/anime.png) 「仮面ライダーアマゾン」
-* ![anime](_media/anime.png) 「ウルトラマンレオ」
+* ![anime](images/anime.png) まんが劇場「アルプスの少女ハイジ」
+* ![anime](images/anime.png) 「グレートマジンガー」
+* ![anime](images/anime.png) 「ゲッターロボ」
+* ![anime](images/anime.png) 「破裏拳ポリマー」
+* ![anime](images/anime.png) 「仮面ライダーX」
+* ![anime](images/anime.png) 「仮面ライダーアマゾン」
+* ![anime](images/anime.png) 「ウルトラマンレオ」
 
 ## 1975年 - 昭和50年
 
-* ![anime](_media/anime.png) こども劇場「フランダースの犬」
-* ![anime](_media/anime.png) 「UFOロボ グレンダイザー」
-* ![anime](_media/anime.png) 「ゲッターロボG」
-* ![anime](_media/anime.png) 「鋼鉄ジーグ」
-* ![anime](_media/anime.png) 「タイムボカン」
-* ![anime](_media/anime.png) 「仮面ライダーストロンガー」
-* ![anime](_media/anime.png) 「秘密戦隊ゴレンジャー」
+* ![anime](images/anime.png) こども劇場「フランダースの犬」
+* ![anime](images/anime.png) 「UFOロボ グレンダイザー」
+* ![anime](images/anime.png) 「ゲッターロボG」
+* ![anime](images/anime.png) 「鋼鉄ジーグ」
+* ![anime](images/anime.png) 「タイムボカン」
+* ![anime](images/anime.png) 「仮面ライダーストロンガー」
+* ![anime](images/anime.png) 「秘密戦隊ゴレンジャー」
 
 ## 1976年 - 昭和51年
 
 * [I/O](https://ja.wikipedia.org/wiki/I/O_(雑誌)) 創刊
 * [vi](https://ja.wikipedia.org/wiki/Vi) 開発
-* ![anime](_media/anime.png) こども劇場「母をたずねて三千里」
-* ![anime](_media/anime.png) 「大空魔竜ガイキング」
-* ![anime](_media/anime.png) 「超電磁ロボ コン・バトラーV」
+* ![anime](images/anime.png) こども劇場「母をたずねて三千里」
+* ![anime](images/anime.png) 「大空魔竜ガイキング」
+* ![anime](images/anime.png) 「超電磁ロボ コン・バトラーV」
 
 ## 1977年 - 昭和52年
 
 * [月刊アスキー](https://ja.wikipedia.org/wiki/月刊アスキー) 創刊
 * [月刊マイコン](https://ja.wikipedia.org/wiki/月刊マイコン) 創刊
-* ![internet](_media/internet.png) [Usenet](https://ja.wikipedia.org/wiki/ネットニュース) 発足
-* ![anime](_media/anime.png) こども劇場「あらいぐまラスカル」
-* ![anime](_media/anime.png) 「超電磁マシーン ボルテスV」
-* ![anime](_media/anime.png) 「無敵超人ザンボット3」
-* ![anime](_media/anime.png) 「ヤッターマン」
-* ![manga](_media/manga.png) 「リングにかけろ」連載開始
-* ![anime](_media/anime.png) 「ジャッカー電撃隊」
+* ![internet](images/internet.png) [Usenet](https://ja.wikipedia.org/wiki/ネットニュース) 発足
+* ![anime](images/anime.png) こども劇場「あらいぐまラスカル」
+* ![anime](images/anime.png) 「超電磁マシーン ボルテスV」
+* ![anime](images/anime.png) 「無敵超人ザンボット3」
+* ![anime](images/anime.png) 「ヤッターマン」
+* ![manga](images/manga.png) 「リングにかけろ」連載開始
+* ![anime](images/anime.png) 「ジャッカー電撃隊」
 
 ## 1978年 - 昭和53年
 
 * シャープ [MZ-80K](https://ja.wikipedia.org/wiki/MZ-80) 発売
-* ![anime](_media/anime.png) ファミリー劇場「ペリーヌ物語」
-* ![anime](_media/anime.png) 「闘将ダイモス」
-* ![anime](_media/anime.png) 「無敵鋼人ダイターン3」
-* ![anime](_media/anime.png) 「科学忍者隊ガッチャマンⅡ」
-* ![manga](_media/manga.png) 「うる星やつら」連載開始
+* ![anime](images/anime.png) ファミリー劇場「ペリーヌ物語」
+* ![anime](images/anime.png) 「闘将ダイモス」
+* ![anime](images/anime.png) 「無敵鋼人ダイターン3」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマンⅡ」
+* ![manga](images/manga.png) 「うる星やつら」連載開始
 
 ## 1979年 - 昭和54年
 
 * NEC [PC-8001](https://ja.wikipedia.org/wiki/PC-8000シリーズ) 発売
-* ![anime](_media/anime.png) 世界名作劇場「赤毛のアン」
-* ![anime](_media/anime.png) 「機動戦士ガンダム」
-* ![anime](_media/anime.png) 「ゼンダマン」
-* ![anime](_media/anime.png) 「科学忍者隊ガッチャマンF」
-* ![anime](_media/anime.png) 「仮面ライダー（スカイライダー）」
-* ![anime](_media/anime.png) 「バトルフィーバーJ」
-* ![anime](_media/anime.png) 「ザ☆ウルトラマン」
+* ![anime](images/anime.png) 世界名作劇場「赤毛のアン」
+* ![anime](images/anime.png) 「機動戦士ガンダム」
+* ![anime](images/anime.png) 「ゼンダマン」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマンF」
+* ![anime](images/anime.png) 「仮面ライダー（スカイライダー）」
+* ![anime](images/anime.png) 「バトルフィーバーJ」
+* ![anime](images/anime.png) 「ザ☆ウルトラマン」
 
 ---
 
 ## 1980年 - 昭和55年
 
-* ![game](_media/game.png) [ゲーム＆ウオッチ](https://ja.wikipedia.org/wiki/ゲーム%26ウオッチ) 発売
-* ![game](_media/game.png) [ミステリーハウス](https://ja.wikipedia.org/wiki/ミステリーハウス) 発売
-* ![internet](_media/internet.png) [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
-* ![anime](_media/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
-* ![anime](_media/anime.png) 「無敵ロボ トライダーG7」
-* ![anime](_media/anime.png) 「オタスケマン」
-* ![manga](_media/manga.png) 「めぞん一刻」連載開始
-* ![anime](_media/anime.png) 「仮面ライダースーパー1」
-* ![anime](_media/anime.png) 「電子戦隊デンジマン」
-* ![anime](_media/anime.png) 「ウルトラマン80」
-* ![anime](_media/anime.png) 映画ドラえもん「のび太の恐竜」
+* ![game](images/game.png) [ゲーム＆ウオッチ](https://ja.wikipedia.org/wiki/ゲーム%26ウオッチ) 発売
+* ![game](images/game.png) [ミステリーハウス](https://ja.wikipedia.org/wiki/ミステリーハウス) 発売
+* ![internet](images/internet.png) [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
+* ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
+* ![anime](images/anime.png) 「無敵ロボ トライダーG7」
+* ![anime](images/anime.png) 「オタスケマン」
+* ![manga](images/manga.png) 「めぞん一刻」連載開始
+* ![anime](images/anime.png) 「仮面ライダースーパー1」
+* ![anime](images/anime.png) 「電子戦隊デンジマン」
+* ![anime](images/anime.png) 「ウルトラマン80」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の恐竜」
 
 ## 1981年 - 昭和56年
 
-* ![game](_media/game.png) [ウルティマⅠ](https://ja.wikipedia.org/wiki/ウルティマ) 発売
-* ![game](_media/game.png) [ウィザードリィ](https://ja.wikipedia.org/wiki/ウィザードリィ) 発売
+* ![game](images/game.png) [ウルティマⅠ](https://ja.wikipedia.org/wiki/ウルティマ) 発売
+* ![game](images/game.png) [ウィザードリィ](https://ja.wikipedia.org/wiki/ウィザードリィ) 発売
 * NEC [PC-6001](https://ja.wikipedia.org/wiki/PC-6000シリーズ) 発売
 * NEC [PC-8801](https://ja.wikipedia.org/wiki/PC-8800シリーズ) 発売
 * 富士通 [FM-8](https://ja.wikipedia.org/wiki/FM-8) 発売
-* ![anime](_media/anime.png) 世界名作劇場「ふしぎな島のフローネ」
-* ![anime](_media/anime.png) 「最強ロボ ダイオージャ」
-* ![anime](_media/anime.png) 「太陽の牙ダグラム」
-* ![anime](_media/anime.png) 「ヤットデタマン」
-* ![manga](_media/manga.png) 「キャッツ・アイ」連載開始
-* ![anime](_media/anime.png) 「太陽戦隊サンバルカン」
-* ![anime](_media/anime.png) 映画ドラえもん「のび太の宇宙開拓史」
+* ![anime](images/anime.png) 世界名作劇場「ふしぎな島のフローネ」
+* ![anime](images/anime.png) 「最強ロボ ダイオージャ」
+* ![anime](images/anime.png) 「太陽の牙ダグラム」
+* ![anime](images/anime.png) 「ヤットデタマン」
+* ![manga](images/manga.png) 「キャッツ・アイ」連載開始
+* ![anime](images/anime.png) 「太陽戦隊サンバルカン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙開拓史」
 
 ## 1982年 - 昭和57年
 
 * [マイコンBASICマガジン](https://ja.wikipedia.org/wiki/マイコンBASICマガジン) 創刊
 * [Oh!X](https://ja.wikipedia.org/wiki/Oh!X) 創刊
 * 映画「トロン」公開
-* ![internet](_media/internet.png) [SMTP](https://ja.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) 仕様公開
+* ![internet](images/internet.png) [SMTP](https://ja.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) 仕様公開
 * ![manga](_media/manga.png) [AKIRA](https://ja.wikipedia.org/wiki/AKIRA_(漫画)) ヤンマガ連載開始
 * トミー [ぴゅう太](https://ja.wikipedia.org/wiki/ぴゅう太) 発売
 * NEC [PC-9801](https://ja.wikipedia.org/wiki/PC-9800シリーズ) 発売
