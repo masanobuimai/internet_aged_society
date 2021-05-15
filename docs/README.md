@@ -35,6 +35,8 @@
 * ![anime](_media/anime.png) 「マジンガーZ」
 * ![anime](_media/anime.png) 「科学忍者隊ガッチャマン」
 * ![anime](_media/anime.png) 「ウルトラマンA」
+* ![ika](_media/ika.png) [ベルサイユのばら](https://ja.wikipedia.org/wiki/ベルサイユのばら) ⇔ カンケツセンのばら
+* ![ika](_media/ika.png) [ポーの一族](https://ja.wikipedia.org/wiki/ポーの一族) ⇔ バーの一族
 
 ## 1973年 - 昭和48年
 
@@ -71,6 +73,7 @@
 * ![anime](_media/anime.png) こども劇場「母をたずねて三千里」
 * ![anime](_media/anime.png) 「大空魔竜ガイキング」
 * ![anime](_media/anime.png) 「超電磁ロボ コン・バトラーV」
+* ![ika](_media/ika.png) [風と木の詩](https://ja.wikipedia.org/wiki/風と木の詩) ⇔ ジャンプマットの詩
 
 ## 1977年 - 昭和52年
 
@@ -153,6 +156,7 @@
 * ![anime](_media/anime.png) 「大戦隊ゴーグルファイブ」
 * ![anime](_media/anime.png) 「宇宙刑事ギャバン」
 * ![anime](_media/anime.png) 映画ドラえもん「のび太の大魔境」
+* ![ika](_media/ika.png) [ときめきトゥナイト](https://ja.wikipedia.org/wiki/ときめきトゥナイト) ⇔ ヌリヌリトゥナイト
 
 ## 1983年 - 昭和58年
 
@@ -258,6 +262,7 @@
 * ![anime](_media/anime.png) 「仮面ライダーBLACK RX」
 * ![anime](_media/anime.png) 「超獣戦隊ライブマン」
 * ![anime](_media/anime.png) 映画ドラえもん「のび太のパラレル西遊記」
+* ![ika](_media/ika.png) [ハンサムな彼女](https://ja.wikipedia.org/wiki/ハンサムな彼女) ⇔ ハンサムなスポンジ
 
 ## 1989年 - 平成元年 : 昭和天皇崩御
 
@@ -276,6 +281,7 @@
 * ![manga](_media/manga.png) 「はじめの一歩」連載開始
 * ![anime](_media/anime.png) 「高速戦隊ターボレンジャー」
 * ![anime](_media/anime.png) 映画ドラえもん「のび太の日本誕生」
+* ![ika](_media/ika.png) [きんぎょ注意報！](https://ja.wikipedia.org/wiki/きんぎょ注意報!) ⇔ たこあし注意報！
 
 ---
 
@@ -295,6 +301,8 @@
 * ![manga](_media/manga.png) 「うしおととら」連載開始
 * ![anime](_media/anime.png) 「地球戦隊ファイブマン」
 * ![anime](_media/anime.png) 映画ドラえもん「のび太とアニマル惑星(プラネット)」
+* ![ika](_media/ika.png) [イタズラなKiss](https://ja.wikipedia.org/wiki/イタズラなKiss) ⇔ イタズラなヒキヨセ
+* ![ika](_media/ika.png) [姫ちゃんのリボン](https://ja.wikipedia.org/wiki/姫ちゃんのリボン) ⇔ ヒメちゃんのキャノン
 
 ## 1991年 - 平成3年 : バブル崩壊
 
@@ -310,6 +318,7 @@
 * ![anime](_media/anime.png) 映画「機動戦士ガンダムF91」公開
 * ![anime](_media/anime.png) 「鳥人戦隊ジェットマン」
 * ![anime](_media/anime.png) 映画ドラえもん「のび太のドラビアンナイト」
+* ![ika](_media/ika.png) [天使なんかじゃない](https://ja.wikipedia.org/wiki/天使なんかじゃない) ⇔ ピロピロなんかじゃない
 
 ## 1992年 - 平成4年
 
@@ -320,6 +329,8 @@
 * ![manga](_media/manga.png) 「ジョジョの奇妙な冒険（Part4 ダイヤモンドは砕けない）」連載開始
 * ![anime](_media/anime.png) 「恐竜戦隊ジュウレンジャー」
 * ![anime](_media/anime.png) 映画ドラえもん「のび太と雲の王国」
+* ![ika](_media/ika.png) [セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン) ⇔ ドーザームーン
+* ![ika](_media/ika.png) [ママレード・ボーイ](https://ja.wikipedia.org/wiki/ママレード・ボーイ) ⇔ トランスペアレント・ボーイ
 
 ## 1993年 - 平成5年
 
@@ -353,6 +364,7 @@
 * ![internet](_media/internet.png) Amazon
 * ![game](_media/game.png) [セガサターン](https://ja.wikipedia.org/wiki/セガサターン) 発売
 * ![game](_media/game.png) [PlayStation](https://ja.wikipedia.org/wiki/PlayStation) 発売
+* ![ika](_media/ika.png) [コジコジ](https://ja.wikipedia.org/wiki/コジコジ) ⇔ トジトジ
 
 ## 1995年 - 平成7年 : 阪神淡路大震災発生
 
@@ -417,6 +429,7 @@
 * ![internet](_media/internet.png) Windows 98
 * ![internet](_media/internet.png) google
 * ![internet](_media/internet.png) インフォシーク
+* ![ika](_media/ika.png) [フルーツバスケット](https://ja.wikipedia.org/wiki/フルーツバスケット_(漫画)) ⇔ クイックバスケット
 
 ## 1999年 - 平成11年
 
@@ -510,6 +523,7 @@
 * ![internet](_media/internet.png) Youtube
 * ![internet](_media/internet.png) のまネコ問題
 * ![internet](_media/internet.png) はてなブックマーク(β公開)
+* ![ika](_media/ika.png) [KISS ME ダーリン！！×３](https://www.amazon.co.jp/dp/4063640760) ⇔ 恋はダッシュ×３
 
 ## 2006年 - 平成18年
 
@@ -531,6 +545,7 @@
 * ![anime](_media/anime.png) 映画ドラえもん「のび太の新魔界大冒険 〜7人の魔法使い〜」
 * iPhone
 * Silverlight
+* ![ika](_media/ika.png) [グッドモーニング・キス](https://www.amazon.co.jp/dp/B00CH3Y21G) ⇔ ウィンドミル・キス
 
 ## 2008年 - 平成20年 : リーマンショック
 
@@ -540,6 +555,7 @@
 * ![anime](_media/anime.png) 映画ドラえもん「のび太と緑の巨人伝」
 * Android
 * Google Chrome
+* ![ika](_media/ika.png) [真夏の濡れた吐息](https://www.amazon.co.jp/dp/B077G1TJNW) ⇔ ヌリとスイッチの吐息
 
 ## 2009年 - 平成21年
 
@@ -548,6 +564,7 @@
 * ![anime](_media/anime.png) 「仮面ライダーW」
 * ![anime](_media/anime.png) 「侍戦隊シンケンジャー」
 * ![anime](_media/anime.png) 映画ドラえもん「新・のび太の宇宙開拓史」
+* ![ika](_media/ika.png) [追憶の首飾り](https://www.amazon.co.jp/dp/B0828LBYK8) ⇔ 追憶のスライド
 
 ---
 
@@ -555,6 +572,7 @@
 
 * ![anime](_media/anime.png) 「仮面ライダーオーズ/OOO」
 * ![anime](_media/anime.png) 「天装戦隊ゴセイジャー」
+* ![ika](_media/ika.png) [おもいで金平糖](https://www.amazon.co.jp/dp/B00ISRXEFU) ⇔ 思い出コロガリウム
 
 ## 2011年 - 平成23年 : 東日本大震災発生
 
@@ -572,6 +590,7 @@
 * ![anime](_media/anime.png) 「仮面ライダーウィザード」
 * ![anime](_media/anime.png) 「特命戦隊ゴーバスターズ」
 * ![game](_media/game.png) [Wii U](https://ja.wikipedia.org/wiki/Wii_U) 発売
+* ![ika](_media/ika.png) [きみのハートに刻印を](https://www.amazon.co.jp/dp/B00GBYRY8K/) ⇔ キミのハートにライド・オン！
 
 ## 2013年 - 平成25年
 
@@ -588,6 +607,7 @@
 * ![anime](_media/anime.png) 映画ドラえもん「のび太と奇跡の島 〜アニマル アドベンチャー〜」
 * ![anime](_media/anime.png) 映画ドラえもん「新・のび太の大魔境 〜ペコと5人の探検隊〜」
 * HTML5勧告
+* ![ika](_media/ika.png) [未完成ラヴァーズ](https://www.amazon.co.jp/dp/B00T2IDS2I) ⇔ 天秤ラヴァーズ
 
 ## 2015年 - 平成27年
 
@@ -601,6 +621,8 @@
 * ![anime](_media/anime.png) 「仮面ライダーエグゼイド」
 * ![anime](_media/anime.png) 「動物戦隊ジュウオウジャー」
 * ![anime](_media/anime.png) 映画ドラえもん「新・のび太の日本誕生」
+* ![ika](_media/ika.png) [ラブシーンが止まらない](https://www.amazon.co.jp/dp/B08LPP5NLQ) ⇔ ビッグ＝パネルが止まらない
+* ![ika](_media/ika.png) [明日はどっちだ！](https://www.amazon.co.jp/dp/B0772LQ1GF) ⇔ あしたはデンデン
 
 ## 2017年 - 平成29年
 
